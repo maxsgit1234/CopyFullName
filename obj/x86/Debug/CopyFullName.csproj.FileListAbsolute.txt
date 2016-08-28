@@ -1,0 +1,4 @@
+C:\Users\Million\Documents\GitHub\Observatory\ObsFieldPlots\CopyFullName\bin\Debug\CopyFullName.exe
+C:\Users\Million\Documents\GitHub\Observatory\ObsFieldPlots\CopyFullName\bin\Debug\CopyFullName.pdb
+C:\Users\Million\Documents\GitHub\Observatory\ObsFieldPlots\CopyFullName\obj\x86\Debug\CopyFullName.exe
+C:\Users\Million\Documents\GitHub\Observatory\ObsFieldPlots\CopyFullName\obj\x86\Debug\CopyFullName.pdb

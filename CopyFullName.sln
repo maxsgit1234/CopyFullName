@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFullName", "CopyFullName.csproj", "{A248BF2D-B081-4F05-B5A6-ED887A80561B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A248BF2D-B081-4F05-B5A6-ED887A80561B}.Debug|x86.ActiveCfg = Debug|x86
+		{A248BF2D-B081-4F05-B5A6-ED887A80561B}.Debug|x86.Build.0 = Debug|x86
+		{A248BF2D-B081-4F05-B5A6-ED887A80561B}.Release|x86.ActiveCfg = Release|x86
+		{A248BF2D-B081-4F05-B5A6-ED887A80561B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
