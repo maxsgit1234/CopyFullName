@@ -97,7 +97,7 @@ namespace CopyFullName
             // Establish this program as the one to invoke. '%1' refers to the 
             // name of the file or folder that was right-clicked on. 
             RegistryKey k3 = k2.CreateSubKey("command");
-            k3.SetValue(null, Environment.CurrentDirectory + "\\CopyFullName.exe %1");
+            k3.SetValue(null, Environment.CurrentDirectory + "\\CopyFullName.exe \"%1\"");
         }
 
         // Over the top? Bite me.
